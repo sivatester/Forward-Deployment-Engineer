@@ -1,0 +1,20 @@
+[
+    {
+        "invoice_id": "INV-001",
+        "vendor": "Acme Supplies",
+        "amount": 1250.5,
+        "status": "paid"
+    },
+    {
+        "invoice_id": "INV-002",
+        "vendor": "Beta Traders",
+        "amount": 800.0,
+        "status": "unpaid"
+    },
+    {
+        "invoice_id": "INV-003",
+        "vendor": "Acme Supplies",
+        "amount": 430.75,
+        "status": "unpaid"
+    }
+]
